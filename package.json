@@ -1,0 +1,29 @@
+{
+  "name": "waterfall-flow",
+  "version": "1.0.0",
+  "description": "waterfall-flow",
+  "main": "index.js",
+  "dependencies": {
+    "masonry-layout": "^4.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "jquery": "^3.2.1",
+    "sass": "^1.0.0-beta.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamayan/waterfall-flow.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamayan/waterfall-flow/issues"
+  },
+  "homepage": "https://github.com/mamayan/waterfall-flow#readme"
+}
